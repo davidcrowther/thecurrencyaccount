@@ -1,0 +1,163 @@
+#header{
+    background-image: url('../images/header_bg.png');
+    background-size: cover;
+}
+.section_bg1{
+    background-color: #93C0D3;
+}
+.section_bg2{
+    background:#fff url("../images/body_bg.png");
+}
+#footer{
+    background-color: #F5F6F6;
+}
+#section1{
+}
+#section2{
+}
+#section3{
+}
+/*fonts*/
+.source_sans_problack{
+    font-family: 'source_sans_problack';
+}
+.source_sans_prosemibold{
+    font-family: 'source_sans_prosemibold';
+}
+.source_sans_probold{
+    font-family: 'source_sans_probold';
+}
+.source_sans_prolight{
+    font-family: 'source_sans_prolight';
+}
+.source_sans_proitalic{
+    font-family: 'source_sans_proitalic';
+}
+.source_sans_prolight_italic{
+    font-family: 'source_sans_prolight_italic';
+}
+.source_sans_proextralight{
+    font-family: 'source_sans_proextralight';
+}
+
+/*font colors*/
+.white{
+    color: #fff;
+}
+.currency_grey{
+    color: #69747f;
+}
+.currency_black{
+    color: #464d52;
+}
+.currency_red{
+    color: #da675c;
+}
+
+/*font sizes*/
+.fs50{
+    font-size: 50px;
+}
+.fs48{
+    font-size: 48px;
+}
+.fs36{
+    font-size: 36px;
+}
+.fs30{
+    font-size: 30px;
+}
+.fs28{
+    font-size: 28px;
+}
+.fs27{
+    font-size: 27px;
+}
+.fs24{
+    font-size: 24px;
+}
+.fs20{
+    font-size: 20px;
+}
+.fs18{
+    font-size: 18px;
+}
+.fs16{
+    font-size: 16px;
+}
+.fs14{
+    font-size: 14px;
+}
+/*border radius*/
+.brd2{
+    border-radius: 2px;
+}
+/*bg colors*/
+.bgcw{
+    background-color: #fff;
+}
+.bgcgrey{
+    background-color: #E5E7E7;
+}
+.bgccurrencyw{
+    background-color: #f7f7f7;
+}
+/*buttons*/
+.btn-custom {
+  background-color: #D9665C !important;
+  border-color: #D9665C;
+  color: #fff !important;
+  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.00);
+  padding: 2% 25%;
+}
+.btn-custom2 {
+  background-color: #D9665C !important;
+  border-color: #D9665C;
+  color: #fff !important;
+  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.00);
+  padding: 1.6% 21%;
+}
+/*margin*/
+.mb0{
+    margin-bottom: 0;
+}
+.ml20{
+    margin-left: 20px;
+}
+.mb18{
+    margin-bottom: 18px;
+}
+.mb-7{
+    margin-bottom: -7px;
+}
+ul.tick li{
+    background-image: url('../images/tick.png');
+    background-repeat: no-repeat;
+    padding-left: 30px;
+}
+
+
+/*padding*/
+.pt10{
+    padding-top: 10px;
+}
+
+a.currency_red:hover{
+    color: #da675c;
+}
+a.currency_grey:hover{
+    color: #69747f;
+}
+
+a.currency_grey{
+    display: inline-block;
+	margin-top: 6px;
+}
+/*line height*/
+.lh28{
+    line-height: 28px;
+}
+/*height*/
+.height55{
+    height: 55px;
+}
